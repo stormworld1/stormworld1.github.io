@@ -3,8 +3,7 @@ const textConfig = {
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu muốn đi chơi mí madaaa hay mí tớ áaaaa ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn đi chơi mí tớ nha :v",
-  text5: "Tớ đi chơi mí madaaa còn hơnnn =))",
-  text6: "Tớ cx muốn đi chơi mí cậu áaa :3",
+  
   text7: "Tại sao lại muốn đi chơi mí tớ áaa :))",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu đẹp try vlllll",

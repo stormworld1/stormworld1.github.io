@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu muốn đi chơi mí madaaa hay mí tớ áaaaa ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn đi chơi mí tớ nha :v",
+  text2: "Tớ muốn hỏi cậu cái nàyyyy",
+  text3: "Cậu muốn đi chơi mí madaaa hay ở nhà giửa bát đóaaa",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn đi chơi mí tớ thay vì chọn madaaa hay là giửa bát nhé=))",
   
-  text7: "Tại sao lại muốn đi chơi mí tớ áaa :))",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà :)) hahahahha",
+  text7: "Tại sao cậu lại chọn madaaa thế ",
+  text8: "Gửi cho tớ =))",
+  text9: "Vì madaaa zui tính dễ dọa tớ =))",
+  text10: "Ảo thật đấy =))",
   text11:
-    "Ngày đẹp trời nào đó chúng ta đi chơi nhaaa :3",
-  text12: "Okii lunn <3",
+    "Ngày đẹp trời nào đó madaaa sẽ dọa cậu cho mà coiii =))",
+  text12: "áaaaaaa",
 };
 
 $(document).ready(function () {
@@ -34,7 +34,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/aaa.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.instagram.com/nqp.212/";
           },
         });
       }
